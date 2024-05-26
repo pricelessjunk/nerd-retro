@@ -1,0 +1,10 @@
+/Users/kaustuv.chakrabarti/research/rust/nerd-retro/target/debug/deps/libversion_check-bdb4afff25ba1655.rmeta: /Users/kaustuv.chakrabarti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/lib.rs /Users/kaustuv.chakrabarti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/version.rs /Users/kaustuv.chakrabarti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/channel.rs /Users/kaustuv.chakrabarti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/date.rs
+
+/Users/kaustuv.chakrabarti/research/rust/nerd-retro/target/debug/deps/libversion_check-bdb4afff25ba1655.rlib: /Users/kaustuv.chakrabarti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/lib.rs /Users/kaustuv.chakrabarti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/version.rs /Users/kaustuv.chakrabarti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/channel.rs /Users/kaustuv.chakrabarti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/date.rs
+
+/Users/kaustuv.chakrabarti/research/rust/nerd-retro/target/debug/deps/version_check-bdb4afff25ba1655.d: /Users/kaustuv.chakrabarti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/lib.rs /Users/kaustuv.chakrabarti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/version.rs /Users/kaustuv.chakrabarti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/channel.rs /Users/kaustuv.chakrabarti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/date.rs
+
+/Users/kaustuv.chakrabarti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/lib.rs:
+/Users/kaustuv.chakrabarti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/version.rs:
+/Users/kaustuv.chakrabarti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/channel.rs:
+/Users/kaustuv.chakrabarti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/date.rs:
