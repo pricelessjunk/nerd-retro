@@ -1,0 +1,10 @@
+/Users/kaustuv.chakrabarti/research/rust/nerd-retro/target/debug/deps/libcastaway-20be915df2b1b039.rmeta: /Users/kaustuv.chakrabarti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/castaway-0.2.2/src/lib.rs /Users/kaustuv.chakrabarti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/castaway-0.2.2/src/internal.rs /Users/kaustuv.chakrabarti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/castaway-0.2.2/src/lifetime_free.rs /Users/kaustuv.chakrabarti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/castaway-0.2.2/src/utils.rs
+
+/Users/kaustuv.chakrabarti/research/rust/nerd-retro/target/debug/deps/libcastaway-20be915df2b1b039.rlib: /Users/kaustuv.chakrabarti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/castaway-0.2.2/src/lib.rs /Users/kaustuv.chakrabarti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/castaway-0.2.2/src/internal.rs /Users/kaustuv.chakrabarti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/castaway-0.2.2/src/lifetime_free.rs /Users/kaustuv.chakrabarti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/castaway-0.2.2/src/utils.rs
+
+/Users/kaustuv.chakrabarti/research/rust/nerd-retro/target/debug/deps/castaway-20be915df2b1b039.d: /Users/kaustuv.chakrabarti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/castaway-0.2.2/src/lib.rs /Users/kaustuv.chakrabarti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/castaway-0.2.2/src/internal.rs /Users/kaustuv.chakrabarti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/castaway-0.2.2/src/lifetime_free.rs /Users/kaustuv.chakrabarti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/castaway-0.2.2/src/utils.rs
+
+/Users/kaustuv.chakrabarti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/castaway-0.2.2/src/lib.rs:
+/Users/kaustuv.chakrabarti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/castaway-0.2.2/src/internal.rs:
+/Users/kaustuv.chakrabarti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/castaway-0.2.2/src/lifetime_free.rs:
+/Users/kaustuv.chakrabarti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/castaway-0.2.2/src/utils.rs:
