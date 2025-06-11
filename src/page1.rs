@@ -1,12 +1,14 @@
 use std::io;
 use std::io::stdout;
 
-use crossterm::{event, ExecutableCommand};
 use crossterm::event::{Event, KeyCode};
-use crossterm::terminal::{disable_raw_mode, enable_raw_mode, EnterAlternateScreen, LeaveAlternateScreen};
-use ratatui::{Frame, Terminal};
+use crossterm::terminal::{
+    EnterAlternateScreen, LeaveAlternateScreen, disable_raw_mode, enable_raw_mode,
+};
+use crossterm::{ExecutableCommand, event};
 use ratatui::backend::CrosstermBackend;
 use ratatui::widgets::{Block, Borders, Paragraph};
+use ratatui::{Frame, Terminal};
 
 pub mod room_list;
 
@@ -26,13 +28,10 @@ pub fn run_page_1() -> io::Result<()> {
     Ok(())
 }
 
-
 pub fn page_1_ui(frame: &mut Frame) {
     frame.render_widget(
         Paragraph::new("Hello World!")
-            .block(Block::default()
-                .title("Room List")
-                .borders(Borders::ALL)),
+            .block(Block::default().title("Room List").borders(Borders::ALL)),
         frame.size(),
     );
 }
